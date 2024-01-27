@@ -1,0 +1,37 @@
+h1
+{
+    color:   rgb(60, 220, 60);
+    font-size: 100px;
+    text-decoration: line-through;
+    font-family: 'times new roman',times,serif;
+}
+.s1
+{
+    color: aqua;
+    font-family: monospace;
+    background-color: black;
+    font-size: 1000;
+}
+.s2
+{
+    color: blueviolet;
+    font-size: 2000;
+    text-decoration: line line-through;
+    background-color: brown;
+}
+.s3{
+    color: chartreuse;
+    font-size: medium;
+    text-decoration: lightpink;
+    background-color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
+.s4
+{
+    color: cyan;
+    font-size: larger;
+    text-decoration:lightgoldenrodyellow ;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{background-color: red;}
